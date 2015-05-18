@@ -25,8 +25,16 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080001;
-        public static final int txtView=0x7f080000;
+        public static final int action_settings=0x7f080009;
+        public static final int button_submit=0x7f080005;
+        public static final int button_submit2=0x7f080006;
+        public static final int edit_Id=0x7f080001;
+        public static final int edit_pword=0x7f080002;
+        public static final int edit_subject=0x7f080004;
+        public static final int edit_title=0x7f080003;
+        public static final int page01=0x7f080000;
+        public static final int page02=0x7f080007;
+        public static final int text_result=0x7f080008;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
